@@ -1,0 +1,3 @@
+# Additional manually implemented hooks for bind 9.16.2.
+# Each entry should match the uprobe symbol name (e.g. uprobe_custom_symbol).
+# Keep this file empty if all hooks are defined via the hooks.def.h templates.

@@ -1,0 +1,36 @@
+# 优先级（默认包含）
+# 1. Include > Exclude
+# 2. Explicit > DefaultEntry/DefaultReturn
+targets:
+  - path: /usr/local/bind9/sbin/named
+    language: c           # 可选：c（默认）、c++
+    default_entry: true
+    default_return: true
+    include:
+      - pattern: "dns_.*"    # match: raw/demangled/both（默认 both）
+        match: raw
+      - pattern: "std::.*"
+        match: demangled
+    exclude:
+      - pattern: ".*_debug$"
+        match: both
+    explicit:
+      - symbol: _start
+        entry: false
+        return: false
+      - demangled_symbol: "std::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_construct(char*, char*, std::forward_iterator_tag)"
+        entry: true
+        return: false
+  - path: /usr/local/bind9/sbin/named
+    default_entry: true
+    default_return: true
+    # 没有 include 部分，默认包含所有函数
+    exclude:
+      - ".*_debug$"  # 仍然可以排除特定函数
+  - path: /usr/local/bind9/sbin/named
+    default_entry: true
+    default_return: true
+    include:
+      - ".*"  # 匹配任何字符串
+    exclude:
+      - ".*_debug$"

@@ -1,0 +1,10 @@
+programs:
+  - name: template
+    bin_path: "/usr/local/bind9/lib/libdns.so.1602.0.0"
+    symbol: "fctx_query"
+    position: "entry"
+maps:
+  - name: hook_event_map
+infos:
+  - hook_id: "hook/ebpf/headers/xxx/hook_ids.h"
+event_decoder: "bind_9_16_2"

@@ -1,0 +1,6 @@
+hook/model/_obj/
+.vscode/
+hook_items.json
+backup/
+record/
+nohup.out

@@ -1,0 +1,431 @@
+programs:
+  - name: uprobe_bind_fctx_query_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "fctx_query"
+    position: "entry"
+  - name: uprobe_bind_dns_message_destroy_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_destroy"
+    position: "entry"
+  - name: uprobe_bind_dns_message_firstname_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_firstname"
+    position: "entry"
+  - name: uprobe_bind_dns_message_parse_return
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_parse"
+    position: "return"
+  - name: uprobe_bind_dns_message_takebuffer_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_takebuffer"
+    position: "entry"
+  - name: uprobe_bind_dns_tsig_verify_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_tsig_verify"
+    position: "entry"
+  - name: uprobe_bind_ns_client_sendraw_entry
+    bin_path: "/usr/local/lib/libns.so.1602.0.0"
+    symbol: "ns_client_sendraw"
+    position: "entry"
+  - name: uprobe_bind_dns_message_renderchangebuffer_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_renderchangebuffer"
+    position: "entry"
+  - name: uprobe_bind_dns_ncache_addoptout_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_ncache_addoptout"
+    position: "entry"
+  - name: uprobe_bind_dns_message_gettemprdataset_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_gettemprdataset"
+    position: "entry"
+  - name: uprobe_bind_dns_message_sectiontotext_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_sectiontotext"
+    position: "entry"
+  - name: uprobe_bind_dns_message_checksig_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_checksig"
+    position: "entry"
+  - name: uprobe_bind_dns_message_gettempoffsets_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_gettempoffsets"
+    position: "entry"
+  - name: uprobe_bind_buildquery_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "buildquery"
+    position: "entry"
+  - name: uprobe_bind_dns_message_renderheader_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_renderheader"
+    position: "entry"
+  - name: uprobe_bind_logfmtpacket_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "logfmtpacket"
+    position: "entry"
+  - name: uprobe_bind_dns_message_getopt_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_getopt"
+    position: "entry"
+  - name: uprobe_bind_dns_message_headertotext_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_headertotext"
+    position: "entry"
+  - name: uprobe_bind_dns_message_pseudosectiontotext_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_pseudosectiontotext"
+    position: "entry"
+  - name: uprobe_bind_dns_message_currentname_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_currentname"
+    position: "entry"
+  - name: uprobe_bind_dns_message_nextname_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_nextname"
+    position: "entry"
+  - name: uprobe_bind_dns_message_getquerytsig_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_getquerytsig"
+    position: "entry"
+  - name: uprobe_bind_dns_message_setquerytsig_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_setquerytsig"
+    position: "entry"
+  - name: uprobe_bind_dns_message_settsigkey_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_settsigkey"
+    position: "entry"
+  - name: uprobe_bind_dns_message_gettempname_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_gettempname"
+    position: "entry"
+  - name: uprobe_bind_dns_message_puttempname_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_puttempname"
+    position: "entry"
+  - name: uprobe_bind_dns_message_addname_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_addname"
+    position: "entry"
+  - name: uprobe_bind_dns_message_renderbegin_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_renderbegin"
+    position: "entry"
+  - name: uprobe_bind_dns_message_setpadding_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_setpadding"
+    position: "entry"
+  - name: uprobe_bind_add_opt_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "add_opt"
+    position: "entry"
+  - name: uprobe_bind_dns_message_rendersection_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_rendersection"
+    position: "entry"
+  - name: uprobe_bind_dns_message_renderend_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_renderend"
+    position: "entry"
+  - name: uprobe_bind_dns_message_gettemprdata_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_gettemprdata"
+    position: "entry"
+  - name: uprobe_bind_dns_message_gettemprdatalist_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_gettemprdatalist"
+    position: "entry"
+  - name: uprobe_bind_dns_message_buildopt_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_buildopt"
+    position: "entry"
+  - name: uprobe_bind_dns_message_setopt_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_setopt"
+    position: "entry"
+  - name: uprobe_bind_dns_message_gettsig_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_gettsig"
+    position: "entry"
+  - name: uprobe_bind_dns_message_findname_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_findname"
+    position: "entry"
+  - name: uprobe_bind_get_matching_view_entry
+    bin_path: "/usr/local/sbin/named"
+    symbol: "get_matching_view"
+    position: "entry"
+  - name: uprobe_bind_dns_message_rechecksig_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_rechecksig"
+    position: "entry"
+  - name: uprobe_bind_dns_rdataset_addglue_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_rdataset_addglue"
+    position: "entry"
+  - name: uprobe_bind_dns_view_checksig_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_view_checksig"
+    position: "entry"
+  - name: uprobe_bind_dns_message_puttemprdataset_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_puttemprdataset"
+    position: "entry"
+  - name: uprobe_bind_dns_request_createvia_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_request_createvia"
+    position: "entry"
+  - name: uprobe_bind_dns_message_renderreset_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_renderreset"
+    position: "entry"
+  - name: uprobe_bind_dns_request_getresponse_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_request_getresponse"
+    position: "entry"
+  - name: uprobe_bind_dns_message_setsig0key_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_setsig0key"
+    position: "entry"
+  - name: uprobe_bind_dns_message_totext_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_totext"
+    position: "entry"
+  - name: uprobe_bind_dns_message_removename_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_removename"
+    position: "entry"
+  - name: uprobe_bind_dns_message_puttemprdata_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_puttemprdata"
+    position: "entry"
+  - name: uprobe_bind_dns_message_reset_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_reset"
+    position: "entry"
+  - name: uprobe_bind_dns_dnssec_verifymessage_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_dnssec_verifymessage"
+    position: "entry"
+  - name: uprobe_bind_dns_dnssec_signmessage_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_dnssec_signmessage"
+    position: "entry"
+  - name: uprobe_bind_dns_tkey_builddhquery_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_tkey_builddhquery"
+    position: "entry"
+  - name: uprobe_bind_dns_request_create_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_request_create"
+    position: "entry"
+  - name: uprobe_bind_dns_tkey_processdhresponse_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_tkey_processdhresponse"
+    position: "entry"
+  - name: uprobe_bind_dns_tsig_sign_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_tsig_sign"
+    position: "entry"
+  - name: uprobe_bind_dns_tkey_builddeletequery_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_tkey_builddeletequery"
+    position: "entry"
+  - name: uprobe_bind_dns_tkey_processdeleteresponse_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_tkey_processdeleteresponse"
+    position: "entry"
+  - name: uprobe_bind_ns_client_addopt_entry
+    bin_path: "/usr/local/lib/libns.so.1602.0.0"
+    symbol: "ns_client_addopt"
+    position: "entry"
+  - name: uprobe_bind_dns_message_setclass_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_setclass"
+    position: "entry"
+  - name: uprobe_bind_dns_message_logfmtpacket_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_logfmtpacket"
+    position: "entry"
+  - name: uprobe_bind_dns_message_logpacket_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_logpacket"
+    position: "entry"
+  - name: uprobe_bind_dns_message_gettimeadjust_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_gettimeadjust"
+    position: "entry"
+  - name: uprobe_bind_dns_message_settimeadjust_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_settimeadjust"
+    position: "entry"
+  - name: uprobe_bind_dns_message_setsortorder_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_setsortorder"
+    position: "entry"
+  - name: uprobe_bind_dns_message_getrawmessage_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_getrawmessage"
+    position: "entry"
+  - name: uprobe_bind_dns_message_resetsig_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_resetsig"
+    position: "entry"
+  - name: uprobe_bind_dns_message_signer_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_signer"
+    position: "entry"
+  - name: uprobe_bind_dns_message_getsig0key_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_getsig0key"
+    position: "entry"
+  - name: uprobe_bind_dns_message_getsig0_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_getsig0"
+    position: "entry"
+  - name: uprobe_bind_dns_message_gettsigkey_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_gettsigkey"
+    position: "entry"
+  - name: uprobe_bind_dns_message_reply_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_reply"
+    position: "entry"
+  - name: uprobe_bind_dns_message_puttemprdatalist_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_puttemprdatalist"
+    position: "entry"
+  - name: uprobe_bind_dns_message_movename_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_movename"
+    position: "entry"
+  - name: uprobe_bind_dns_message_renderrelease_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_renderrelease"
+    position: "entry"
+  - name: uprobe_bind_dns_message_renderreserve_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_message_renderreserve"
+    position: "entry"
+  - name: uprobe_bind_dns_zone_forwardupdate_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_zone_forwardupdate"
+    position: "entry"
+  - name: uprobe_bind_dns_zone_notifyreceive_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_zone_notifyreceive"
+    position: "entry"
+  - name: uprobe_bind_dns_client_startrequest_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_client_startrequest"
+    position: "entry"
+  - name: uprobe_bind_dns_client_request_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_client_request"
+    position: "entry"
+  - name: uprobe_bind_dns_ncache_add_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_ncache_add"
+    position: "entry"
+  - name: uprobe_bind_msgresetopt_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "msgresetopt"
+    position: "entry"
+  - name: uprobe_bind_msgresetsigs_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "msgresetsigs"
+    position: "entry"
+  - name: uprobe_bind_newrdatalist_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "newrdatalist"
+    position: "entry"
+  - name: uprobe_bind_newrdata_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "newrdata"
+    position: "entry"
+  - name: uprobe_bind_getsection_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "getsection"
+    position: "entry"
+  - name: uprobe_bind_getname_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "getname"
+    position: "entry"
+  - name: uprobe_bind_getrdata_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "getrdata"
+    position: "entry"
+  - name: uprobe_bind_msgreset_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "msgreset"
+    position: "entry"
+  - name: uprobe_bind_addoptout_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "addoptout"
+    position: "entry"
+  - name: uprobe_bind_rdataset_addglue_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "rdataset_addglue"
+    position: "entry"
+  - name: uprobe_bind_req_render_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "req_render"
+    position: "entry"
+  - name: uprobe_bind_dns_validator_create_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_validator_create"
+    position: "entry"
+  - name: uprobe_bind_ncache_adderesult_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "ncache_adderesult"
+    position: "entry"
+  - name: uprobe_bind_dns_tkey_gssnegotiate_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_tkey_gssnegotiate"
+    position: "entry"
+  - name: uprobe_bind_dns_tkey_processgssresponse_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_tkey_processgssresponse"
+    position: "entry"
+  - name: uprobe_bind_dns_tkey_buildgssquery_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_tkey_buildgssquery"
+    position: "entry"
+  - name: uprobe_bind_dns_tkey_processquery_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dns_tkey_processquery"
+    position: "entry"
+  - name: uprobe_bind_find_tkey_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "find_tkey"
+    position: "entry"
+  - name: uprobe_bind_dumpmessage_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "dumpmessage"
+    position: "entry"
+  - name: uprobe_bind_add_rdata_to_list_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "add_rdata_to_list"
+    position: "entry"
+  - name: uprobe_bind_free_namelist_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "free_namelist"
+    position: "entry"
+  - name: uprobe_bind_render_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "render"
+    position: "entry"
+  - name: uprobe_bind_message_count_entry
+    bin_path: "/usr/local/lib/libdns.so.1602.0.0"
+    symbol: "message_count"
+    position: "entry"
+  - name: uprobe_bind_get_current_rr_entry
+    bin_path: "/usr/local/lib/libns.so.1602.0.0"
+    symbol: "get_current_rr"
+    position: "entry"
+
+maps:
+  - name: "hook_event_map"
+infos:
+  - hook_id: "hook/ebpf/headers/bind/9_16_2/hook_ids.h"
+event_decoder: "bind_9_16_2"

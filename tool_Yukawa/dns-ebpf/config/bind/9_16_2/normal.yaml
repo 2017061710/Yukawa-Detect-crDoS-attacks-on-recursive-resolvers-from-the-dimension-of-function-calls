@@ -1,0 +1,26 @@
+targets:
+  - path: /usr/local/sbin/named
+    default_entry: true
+    default_return: true
+    explicit:
+      - symbol: _start # 注意，return一定要为false，entry无所谓，这里为了可以完美匹配，选择全部忽略
+        entry: false
+        return: false
+  - path: /usr/local/lib/libisc.so.1602.0.0
+    default_entry: true
+    default_return: true
+  - path: /usr/local/lib/libisccc.so.1600.0.1
+    default_entry: true
+    default_return: true
+  - path: /usr/local/lib/libisccfg.so.1600.0.1
+    default_entry: true
+    default_return: true
+  - path: /usr/local/lib/libbind9.so.1600.0.1
+    default_entry: true
+    default_return: true
+  - path: /usr/local/lib/libdns.so.1602.0.0
+    default_entry: true
+    default_return: true
+  - path: /usr/local/lib/libns.so.1602.0.0
+    default_entry: true
+    default_return: true
