@@ -1,0 +1,2955 @@
+received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377321550489,
+  Tgid_pid: 863481700225407,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 52899
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377321587778,
+  Tgid_pid: 863481700225407,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 52899
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377321601363,
+  Tgid_pid: 863481700225407,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 52899
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377321608316,
+  Tgid_pid: 863481700225407,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 52899
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377331925445,
+  Tgid_pid: 863481700225407,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 20419
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377331972062,
+  Tgid_pid: 863481700225407,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 20419
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377331980237,
+  Tgid_pid: 863481700225407,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 20419
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377331985076,
+  Tgid_pid: 863481700225407,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 20419
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377342253737,
+  Tgid_pid: 863481700225407,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 62195
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377342293501,
+  Tgid_pid: 863481700225407,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 62195
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377342306425,
+  Tgid_pid: 863481700225407,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 62195
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377342311264,
+  Tgid_pid: 863481700225407,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 62195
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377352929546,
+  Tgid_pid: 863481700225407,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 54271
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377352986151,
+  Tgid_pid: 863481700225407,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 54271
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377352998685,
+  Tgid_pid: 863481700225407,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 54271
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377353006159,
+  Tgid_pid: 863481700225407,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 54271
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377364017638,
+  Tgid_pid: 863481700225407,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 22823
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377364061720,
+  Tgid_pid: 863481700225407,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 22823
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377364071178,
+  Tgid_pid: 863481700225407,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 22823
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377364076528,
+  Tgid_pid: 863481700225407,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 22823
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377374474195,
+  Tgid_pid: 863481700225407,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 37106
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377374513368,
+  Tgid_pid: 863481700225407,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 37106
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377374522284,
+  Tgid_pid: 863481700225407,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 37106
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377374527234,
+  Tgid_pid: 863481700225407,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 37106
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377384930441,
+  Tgid_pid: 863481700225407,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 7931
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377384969985,
+  Tgid_pid: 863481700225407,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 7931
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377384978871,
+  Tgid_pid: 863481700225407,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 7931
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377384983690,
+  Tgid_pid: 863481700225407,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 7931
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377395460393,
+  Tgid_pid: 863481700225407,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 63401
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377395527458,
+  Tgid_pid: 863481700225407,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 63401
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377395542877,
+  Tgid_pid: 863481700225407,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 63401
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377395548948,
+  Tgid_pid: 863481700225407,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 63401
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377406791777,
+  Tgid_pid: 863481700225407,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 43480
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377406839806,
+  Tgid_pid: 863481700225407,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 43480
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377406849795,
+  Tgid_pid: 863481700225407,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 43480
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377406854654,
+  Tgid_pid: 863481700225407,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 43480
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377417368212,
+  Tgid_pid: 863481700225407,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 48781
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377417408477,
+  Tgid_pid: 863481700225407,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 48781
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377417417383,
+  Tgid_pid: 863481700225407,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 48781
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377417422282,
+  Tgid_pid: 863481700225407,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 48781
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377427868328,
+  Tgid_pid: 863481700225407,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 59853
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377427919584,
+  Tgid_pid: 863481700225407,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 59853
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377427929442,
+  Tgid_pid: 863481700225407,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 59853
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377427935724,
+  Tgid_pid: 863481700225407,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 59853
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377439230824,
+  Tgid_pid: 863481700225407,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 5105
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377439278693,
+  Tgid_pid: 863481700225407,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 5105
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377439290135,
+  Tgid_pid: 863481700225407,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 5105
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377439296917,
+  Tgid_pid: 863481700225407,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 5105
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377449298256,
+  Tgid_pid: 863481700225407,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 2274
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377449339864,
+  Tgid_pid: 863481700225407,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 2274
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377449349632,
+  Tgid_pid: 863481700225407,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 2274
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377449354621,
+  Tgid_pid: 863481700225407,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 2274
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377459701233,
+  Tgid_pid: 863481700225407,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 16570
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377459740456,
+  Tgid_pid: 863481700225407,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 16570
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377459750214,
+  Tgid_pid: 863481700225407,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 16570
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377459754883,
+  Tgid_pid: 863481700225407,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 16570
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377470265951,
+  Tgid_pid: 863481700225407,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 49273
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377470346120,
+  Tgid_pid: 863481700225407,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 49273
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377470365336,
+  Tgid_pid: 863481700225407,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 49273
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377470375545,
+  Tgid_pid: 863481700225407,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 49273
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377481000673,
+  Tgid_pid: 863481700225407,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 33893
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377481057729,
+  Tgid_pid: 863481700225407,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 33893
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377481070002,
+  Tgid_pid: 863481700225407,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 33893
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377481077196,
+  Tgid_pid: 863481700225407,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 33893
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377491330179,
+  Tgid_pid: 863481700225407,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 3785
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377491386364,
+  Tgid_pid: 863481700225407,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 3785
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377491399007,
+  Tgid_pid: 863481700225407,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 3785
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377491405930,
+  Tgid_pid: 863481700225407,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 3785
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377501661928,
+  Tgid_pid: 863481700225407,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 17132
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377501699578,
+  Tgid_pid: 863481700225407,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 17132
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377501709056,
+  Tgid_pid: 863481700225407,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 17132
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377501714075,
+  Tgid_pid: 863481700225407,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 17132
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377512358871,
+  Tgid_pid: 863481700225407,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 57668
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377512427849,
+  Tgid_pid: 863481700225407,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 57668
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377512448969,
+  Tgid_pid: 863481700225407,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 57668
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377512458066,
+  Tgid_pid: 863481700225407,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 57668
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377523028664,
+  Tgid_pid: 863481700225407,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 62498
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377523069069,
+  Tgid_pid: 863481700225407,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 62498
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377523078577,
+  Tgid_pid: 863481700225407,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 62498
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377523083776,
+  Tgid_pid: 863481700225407,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 62498
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377533461140,
+  Tgid_pid: 863481700225407,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 10773
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377533517776,
+  Tgid_pid: 863481700225407,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 10773
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377533530409,
+  Tgid_pid: 863481700225407,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 10773
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377533537352,
+  Tgid_pid: 863481700225407,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 10773
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377543952671,
+  Tgid_pid: 863481700225407,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 13693
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377543991533,
+  Tgid_pid: 863481700225407,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 13693
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377544028382,
+  Tgid_pid: 863481700225407,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 13693
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377544042047,
+  Tgid_pid: 863481700225407,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 13693
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377554555199,
+  Tgid_pid: 863481700225407,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 36217
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377554610302,
+  Tgid_pid: 863481700225407,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 36217
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377554620110,
+  Tgid_pid: 863481700225407,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 36217
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377554624608,
+  Tgid_pid: 863481700225407,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 36217
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377564898119,
+  Tgid_pid: 863481700225407,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 44634
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377564936851,
+  Tgid_pid: 863481700225407,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 44634
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377564946920,
+  Tgid_pid: 863481700225407,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 44634
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377564951799,
+  Tgid_pid: 863481700225407,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 44634
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377575408350,
+  Tgid_pid: 863481700225407,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 48625
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377575464074,
+  Tgid_pid: 863481700225407,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 48625
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377575476106,
+  Tgid_pid: 863481700225407,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 48625
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377575483129,
+  Tgid_pid: 863481700225407,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 48625
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377585947340,
+  Tgid_pid: 863481700225407,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 624
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377586005097,
+  Tgid_pid: 863481700225407,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 624
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377586017721,
+  Tgid_pid: 863481700225407,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 624
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377586024854,
+  Tgid_pid: 863481700225407,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 624
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377596589236,
+  Tgid_pid: 863481700225407,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 49259
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377596681988,
+  Tgid_pid: 863481700225407,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 49259
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377596707976,
+  Tgid_pid: 863481700225407,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 49259
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377596720820,
+  Tgid_pid: 863481700225407,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 49259
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377606914587,
+  Tgid_pid: 863481700225407,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 31891
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377606952838,
+  Tgid_pid: 863481700225407,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 31891
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377606962506,
+  Tgid_pid: 863481700225407,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 31891
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377606967115,
+  Tgid_pid: 863481700225407,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 31891
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377806206022,
+  Tgid_pid: 863481700225407,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 49259
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377806258831,
+  Tgid_pid: 863481700225407,
+  Hook_id: 17 (HOOK_uprobe_bind_dns_message_getopt_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 49259
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377806280591,
+  Tgid_pid: 863481700225407,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 49259
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377806290009,
+  Tgid_pid: 863481700225407,
+  Hook_id: 12 (HOOK_uprobe_bind_dns_message_checksig_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 49259
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377953392661,
+  Tgid_pid: 863481700225407,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 31891
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377953445670,
+  Tgid_pid: 863481700225407,
+  Hook_id: 17 (HOOK_uprobe_bind_dns_message_getopt_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 31891
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377953462080,
+  Tgid_pid: 863481700225407,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 31891
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37377953468442,
+  Tgid_pid: 863481700225407,
+  Hook_id: 12 (HOOK_uprobe_bind_dns_message_checksig_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 31891
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37378091224276,
+  Tgid_pid: 863481700225407,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 13767
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37378091275792,
+  Tgid_pid: 863481700225407,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 13767
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37378091286983,
+  Tgid_pid: 863481700225407,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 13767
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37378091293535,
+  Tgid_pid: 863481700225407,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 13767
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37378194552615,
+  Tgid_pid: 863481700225407,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 12604
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37378194598761,
+  Tgid_pid: 863481700225407,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 12604
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37378194610543,
+  Tgid_pid: 863481700225407,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 12604
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37378194616574,
+  Tgid_pid: 863481700225407,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 12604
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37378378430433,
+  Tgid_pid: 863481700225407,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 13767
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37378378473613,
+  Tgid_pid: 863481700225407,
+  Hook_id: 17 (HOOK_uprobe_bind_dns_message_getopt_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 13767
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37378378491396,
+  Tgid_pid: 863481700225407,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 13767
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37378378498249,
+  Tgid_pid: 863481700225407,
+  Hook_id: 12 (HOOK_uprobe_bind_dns_message_checksig_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 13767
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37378378506965,
+  Tgid_pid: 863481700225407,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 13767
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37378378518026,
+  Tgid_pid: 863481700225407,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 13767
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37378378524267,
+  Tgid_pid: 863481700225407,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 13767
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37378378528135,
+  Tgid_pid: 863481700225407,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 13767
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37378378631016,
+  Tgid_pid: 863481700225407,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 13767
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37378378635494,
+  Tgid_pid: 863481700225407,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: .,
+  Type: 48,
+ Transaction_id: 13767
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37378431121913,
+  Tgid_pid: 863481700225407,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 12604
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37378431175533,
+  Tgid_pid: 863481700225407,
+  Hook_id: 17 (HOOK_uprobe_bind_dns_message_getopt_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 12604
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37378431191552,
+  Tgid_pid: 863481700225407,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 12604
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37378431198856,
+  Tgid_pid: 863481700225407,
+  Hook_id: 12 (HOOK_uprobe_bind_dns_message_checksig_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 12604
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37378431205488,
+  Tgid_pid: 863481700225407,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 12604
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37378431217230,
+  Tgid_pid: 863481700225407,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 12604
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37378431224844,
+  Tgid_pid: 863481700225407,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 12604
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37378431230805,
+  Tgid_pid: 863481700225407,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 12604
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37378431236045,
+  Tgid_pid: 863481700225407,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 12604
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37378431259108,
+  Tgid_pid: 863481700225407,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 12604
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37378431263987,
+  Tgid_pid: 863481700225407,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 12604
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37378431982343,
+  Tgid_pid: 863481700225407,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: .,
+  Type: 2,
+ Transaction_id: 12604
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391232160478,
+  Tgid_pid: 864937694139049,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: www.baidu.com.,
+  Type: 1,
+ Transaction_id: 14183
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391232202947,
+  Tgid_pid: 864937694139049,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: www.baidu.com.,
+  Type: 1,
+ Transaction_id: 14183
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391232238434,
+  Tgid_pid: 864937694139049,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: www.baidu.com.,
+  Type: 1,
+ Transaction_id: 14183
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391255376908,
+  Tgid_pid: 863481700225374,
+  Hook_id: 17 (HOOK_uprobe_bind_dns_message_getopt_entry),
+  recursive_domain: www.baidu.com.,
+  Type: 1,
+ Transaction_id: 14183
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391255448722,
+  Tgid_pid: 863481700225374,
+  Hook_id: 12 (HOOK_uprobe_bind_dns_message_checksig_entry),
+  recursive_domain: www.baidu.com.,
+  Type: 1,
+ Transaction_id: 14183
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391255471565,
+  Tgid_pid: 863481700225374,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: www.baidu.com.,
+  Type: 1,
+ Transaction_id: 14183
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391255515567,
+  Tgid_pid: 863481700225374,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: www.baidu.com.,
+  Type: 1,
+ Transaction_id: 14183
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391255557856,
+  Tgid_pid: 863481700225374,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: www.baidu.com.,
+  Type: 1,
+ Transaction_id: 14183
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391265105898,
+  Tgid_pid: 863481700225418,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: _.com.,
+  Type: 1,
+ Transaction_id: 27755
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391265153547,
+  Tgid_pid: 863481700225418,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: _.com.,
+  Type: 1,
+ Transaction_id: 27755
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391265168114,
+  Tgid_pid: 863481700225418,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: _.com.,
+  Type: 1,
+ Transaction_id: 27755
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391265178093,
+  Tgid_pid: 863481700225418,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: _.com.,
+  Type: 1,
+ Transaction_id: 27755
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391275740229,
+  Tgid_pid: 863481700225418,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: _.com.,
+  Type: 1,
+ Transaction_id: 41922
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391275782428,
+  Tgid_pid: 863481700225418,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: _.com.,
+  Type: 1,
+ Transaction_id: 41922
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391275794771,
+  Tgid_pid: 863481700225418,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: _.com.,
+  Type: 1,
+ Transaction_id: 41922
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391275801603,
+  Tgid_pid: 863481700225418,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: _.com.,
+  Type: 1,
+ Transaction_id: 41922
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391286323038,
+  Tgid_pid: 863481700225418,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: _.com.,
+  Type: 1,
+ Transaction_id: 64198
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391286402968,
+  Tgid_pid: 863481700225418,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: _.com.,
+  Type: 1,
+ Transaction_id: 64198
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391286423787,
+  Tgid_pid: 863481700225418,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: _.com.,
+  Type: 1,
+ Transaction_id: 64198
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391286432703,
+  Tgid_pid: 863481700225418,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: _.com.,
+  Type: 1,
+ Transaction_id: 64198
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391296640007,
+  Tgid_pid: 863481700225418,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: _.com.,
+  Type: 1,
+ Transaction_id: 33097
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391296690812,
+  Tgid_pid: 863481700225418,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: _.com.,
+  Type: 1,
+ Transaction_id: 33097
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391296702954,
+  Tgid_pid: 863481700225418,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: _.com.,
+  Type: 1,
+ Transaction_id: 33097
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391296710148,
+  Tgid_pid: 863481700225418,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: _.com.,
+  Type: 1,
+ Transaction_id: 33097
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391348488715,
+  Tgid_pid: 863481700225418,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: _.com.,
+  Type: 1,
+ Transaction_id: 33097
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391348545050,
+  Tgid_pid: 863481700225418,
+  Hook_id: 17 (HOOK_uprobe_bind_dns_message_getopt_entry),
+  recursive_domain: _.com.,
+  Type: 1,
+ Transaction_id: 33097
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391348558194,
+  Tgid_pid: 863481700225418,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.com.,
+  Type: 1,
+ Transaction_id: 33097
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391348565819,
+  Tgid_pid: 863481700225418,
+  Hook_id: 12 (HOOK_uprobe_bind_dns_message_checksig_entry),
+  recursive_domain: _.com.,
+  Type: 1,
+ Transaction_id: 33097
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391391159711,
+  Tgid_pid: 863481700225418,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: _.com.,
+  Type: 1,
+ Transaction_id: 36897
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391391221707,
+  Tgid_pid: 863481700225418,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: _.com.,
+  Type: 1,
+ Transaction_id: 36897
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391391236274,
+  Tgid_pid: 863481700225418,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: _.com.,
+  Type: 1,
+ Transaction_id: 36897
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391391244971,
+  Tgid_pid: 863481700225418,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: _.com.,
+  Type: 1,
+ Transaction_id: 36897
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391481098039,
+  Tgid_pid: 863481700225418,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: _.com.,
+  Type: 1,
+ Transaction_id: 36897
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391481150718,
+  Tgid_pid: 863481700225418,
+  Hook_id: 17 (HOOK_uprobe_bind_dns_message_getopt_entry),
+  recursive_domain: _.com.,
+  Type: 1,
+ Transaction_id: 36897
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391481165545,
+  Tgid_pid: 863481700225418,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.com.,
+  Type: 1,
+ Transaction_id: 36897
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391481177478,
+  Tgid_pid: 863481700225418,
+  Hook_id: 12 (HOOK_uprobe_bind_dns_message_checksig_entry),
+  recursive_domain: _.com.,
+  Type: 1,
+ Transaction_id: 36897
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391481186605,
+  Tgid_pid: 863481700225418,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.com.,
+  Type: 1,
+ Transaction_id: 36897
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391481193578,
+  Tgid_pid: 863481700225418,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.com.,
+  Type: 1,
+ Transaction_id: 36897
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391481201653,
+  Tgid_pid: 863481700225418,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.com.,
+  Type: 1,
+ Transaction_id: 36897
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391481221881,
+  Tgid_pid: 863481700225418,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.com.,
+  Type: 1,
+ Transaction_id: 36897
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391481229585,
+  Tgid_pid: 863481700225418,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.com.,
+  Type: 1,
+ Transaction_id: 36897
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391481235546,
+  Tgid_pid: 863481700225418,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.com.,
+  Type: 1,
+ Transaction_id: 36897
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391481240946,
+  Tgid_pid: 863481700225418,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.com.,
+  Type: 1,
+ Transaction_id: 36897
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391481274188,
+  Tgid_pid: 863481700225418,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.com.,
+  Type: 1,
+ Transaction_id: 36897
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391483215380,
+  Tgid_pid: 863481700225414,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 45867
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391483243332,
+  Tgid_pid: 863481700225414,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 45867
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391483250425,
+  Tgid_pid: 863481700225414,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 45867
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391483254823,
+  Tgid_pid: 863481700225414,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 45867
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391493816599,
+  Tgid_pid: 863481700225414,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 49996
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391493860831,
+  Tgid_pid: 863481700225414,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 49996
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391493873986,
+  Tgid_pid: 863481700225414,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 49996
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391493880849,
+  Tgid_pid: 863481700225414,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 49996
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391504359689,
+  Tgid_pid: 863481700225414,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 19935
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391504416125,
+  Tgid_pid: 863481700225414,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 19935
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391504429600,
+  Tgid_pid: 863481700225414,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 19935
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391504437655,
+  Tgid_pid: 863481700225414,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 19935
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391514076055,
+  Tgid_pid: 863481700225414,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 14773
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391514133452,
+  Tgid_pid: 863481700225414,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 14773
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391514147489,
+  Tgid_pid: 863481700225414,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 14773
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391514156115,
+  Tgid_pid: 863481700225414,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 14773
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391524486438,
+  Tgid_pid: 863481700225414,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 61999
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391524522305,
+  Tgid_pid: 863481700225414,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 61999
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391524531882,
+  Tgid_pid: 863481700225414,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 61999
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391524537022,
+  Tgid_pid: 863481700225414,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 61999
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391534808009,
+  Tgid_pid: 863481700225414,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 6535
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391534845530,
+  Tgid_pid: 863481700225414,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 6535
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391534861700,
+  Tgid_pid: 863481700225414,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 6535
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391534871197,
+  Tgid_pid: 863481700225414,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 6535
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391545558432,
+  Tgid_pid: 863481700225414,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 43870
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391545611411,
+  Tgid_pid: 863481700225414,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 43870
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391545624556,
+  Tgid_pid: 863481700225414,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 43870
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391545632310,
+  Tgid_pid: 863481700225414,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 43870
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391555588399,
+  Tgid_pid: 863481700225414,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 33647
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391555639494,
+  Tgid_pid: 863481700225414,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 33647
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391555652499,
+  Tgid_pid: 863481700225414,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 33647
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391555660053,
+  Tgid_pid: 863481700225414,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 33647
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391566100215,
+  Tgid_pid: 863481700225414,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 26882
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391566152353,
+  Tgid_pid: 863481700225414,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 26882
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391566166038,
+  Tgid_pid: 863481700225414,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 26882
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391566173652,
+  Tgid_pid: 863481700225414,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 26882
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391576726550,
+  Tgid_pid: 863481700225414,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 38746
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391576772065,
+  Tgid_pid: 863481700225414,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 38746
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391576786342,
+  Tgid_pid: 863481700225414,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 38746
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391576792844,
+  Tgid_pid: 863481700225414,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 38746
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391586955173,
+  Tgid_pid: 863481700225414,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 18988
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391587002512,
+  Tgid_pid: 863481700225414,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 18988
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391587017389,
+  Tgid_pid: 863481700225414,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 18988
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391587024503,
+  Tgid_pid: 863481700225414,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 18988
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391597330033,
+  Tgid_pid: 863481700225414,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 17336
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391597366611,
+  Tgid_pid: 863481700225414,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 17336
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391597376449,
+  Tgid_pid: 863481700225414,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 17336
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391597381930,
+  Tgid_pid: 863481700225414,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 17336
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391607808938,
+  Tgid_pid: 863481700225414,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 2293
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391607859092,
+  Tgid_pid: 863481700225414,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 2293
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391607871495,
+  Tgid_pid: 863481700225414,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 2293
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391607878949,
+  Tgid_pid: 863481700225414,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 2293
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391618231127,
+  Tgid_pid: 863481700225414,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 46832
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391618280930,
+  Tgid_pid: 863481700225414,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 46832
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391618293103,
+  Tgid_pid: 863481700225414,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 46832
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391618300667,
+  Tgid_pid: 863481700225414,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 46832
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391774355682,
+  Tgid_pid: 863481700225414,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 46832
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391774401087,
+  Tgid_pid: 863481700225414,
+  Hook_id: 17 (HOOK_uprobe_bind_dns_message_getopt_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 46832
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391774413300,
+  Tgid_pid: 863481700225414,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 46832
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391774420844,
+  Tgid_pid: 863481700225414,
+  Hook_id: 12 (HOOK_uprobe_bind_dns_message_checksig_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 46832
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391774427436,
+  Tgid_pid: 863481700225414,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 46832
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391774434199,
+  Tgid_pid: 863481700225414,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 46832
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391774442404,
+  Tgid_pid: 863481700225414,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 46832
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391774448074,
+  Tgid_pid: 863481700225414,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 46832
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391774459937,
+  Tgid_pid: 863481700225414,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 46832
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391774542601,
+  Tgid_pid: 863481700225414,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 46832
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391776582612,
+  Tgid_pid: 863481700225416,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 13036
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391776610043,
+  Tgid_pid: 863481700225416,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 13036
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391776616555,
+  Tgid_pid: 863481700225416,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 13036
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391776620492,
+  Tgid_pid: 863481700225416,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 13036
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391787092244,
+  Tgid_pid: 863481700225416,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 51718
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391787147718,
+  Tgid_pid: 863481700225416,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 51718
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391787160712,
+  Tgid_pid: 863481700225416,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 51718
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391787168938,
+  Tgid_pid: 863481700225416,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 51718
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391798440509,
+  Tgid_pid: 863481700225416,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 53972
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391798477668,
+  Tgid_pid: 863481700225416,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 53972
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391798487627,
+  Tgid_pid: 863481700225416,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 53972
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391798493087,
+  Tgid_pid: 863481700225416,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 53972
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391992270707,
+  Tgid_pid: 863481700225416,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 53972
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391992320711,
+  Tgid_pid: 863481700225416,
+  Hook_id: 17 (HOOK_uprobe_bind_dns_message_getopt_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 53972
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391992333214,
+  Tgid_pid: 863481700225416,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 53972
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37391992340487,
+  Tgid_pid: 863481700225416,
+  Hook_id: 12 (HOOK_uprobe_bind_dns_message_checksig_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 53972
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392102211150,
+  Tgid_pid: 863481700225416,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 50652
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392102270541,
+  Tgid_pid: 863481700225416,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 50652
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392102284397,
+  Tgid_pid: 863481700225416,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 50652
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392102292442,
+  Tgid_pid: 863481700225416,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 50652
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392215349179,
+  Tgid_pid: 863481700225416,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 50652
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392215416675,
+  Tgid_pid: 863481700225416,
+  Hook_id: 17 (HOOK_uprobe_bind_dns_message_getopt_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 50652
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392215440740,
+  Tgid_pid: 863481700225416,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 50652
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392215449055,
+  Tgid_pid: 863481700225416,
+  Hook_id: 12 (HOOK_uprobe_bind_dns_message_checksig_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 50652
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392215454996,
+  Tgid_pid: 863481700225416,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 50652
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392215462110,
+  Tgid_pid: 863481700225416,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 50652
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392215471287,
+  Tgid_pid: 863481700225416,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 50652
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392215476877,
+  Tgid_pid: 863481700225416,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 50652
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392215489681,
+  Tgid_pid: 863481700225416,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 50652
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392215548331,
+  Tgid_pid: 863481700225416,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 50652
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392217382707,
+  Tgid_pid: 863481700225415,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: com.,
+  Type: 48,
+ Transaction_id: 6051
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392217414056,
+  Tgid_pid: 863481700225415,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: com.,
+  Type: 48,
+ Transaction_id: 6051
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392217421510,
+  Tgid_pid: 863481700225415,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: com.,
+  Type: 48,
+ Transaction_id: 6051
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392217426068,
+  Tgid_pid: 863481700225415,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: com.,
+  Type: 48,
+ Transaction_id: 6051
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392320737692,
+  Tgid_pid: 863481700225415,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: com.,
+  Type: 48,
+ Transaction_id: 6051
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392320785391,
+  Tgid_pid: 863481700225415,
+  Hook_id: 17 (HOOK_uprobe_bind_dns_message_getopt_entry),
+  recursive_domain: com.,
+  Type: 48,
+ Transaction_id: 6051
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392320797614,
+  Tgid_pid: 863481700225415,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: com.,
+  Type: 48,
+ Transaction_id: 6051
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392320804687,
+  Tgid_pid: 863481700225415,
+  Hook_id: 12 (HOOK_uprobe_bind_dns_message_checksig_entry),
+  recursive_domain: com.,
+  Type: 48,
+ Transaction_id: 6051
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392320811840,
+  Tgid_pid: 863481700225415,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: com.,
+  Type: 48,
+ Transaction_id: 6051
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392320818232,
+  Tgid_pid: 863481700225415,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: com.,
+  Type: 48,
+ Transaction_id: 6051
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392320825386,
+  Tgid_pid: 863481700225415,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: com.,
+  Type: 48,
+ Transaction_id: 6051
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392320830625,
+  Tgid_pid: 863481700225415,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: com.,
+  Type: 48,
+ Transaction_id: 6051
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392320852526,
+  Tgid_pid: 863481700225415,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: com.,
+  Type: 48,
+ Transaction_id: 6051
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392320857285,
+  Tgid_pid: 863481700225415,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: com.,
+  Type: 48,
+ Transaction_id: 6051
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392321529721,
+  Tgid_pid: 863481700225415,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: com.,
+  Type: 48,
+ Transaction_id: 6051
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392322211149,
+  Tgid_pid: 863481700225416,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 50652
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392322243310,
+  Tgid_pid: 863481700225416,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 50652
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392322271903,
+  Tgid_pid: 863481700225416,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 50652
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392322282423,
+  Tgid_pid: 863481700225416,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 50652
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392322297561,
+  Tgid_pid: 863481700225416,
+  Hook_id: 9 (HOOK_uprobe_bind_dns_ncache_addoptout_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 50652
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392322335902,
+  Tgid_pid: 863481700225416,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 50652
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392322370617,
+  Tgid_pid: 863481700225416,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: baidu.com.,
+  Type: 43,
+ Transaction_id: 50652
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392322486449,
+  Tgid_pid: 863481700225414,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 46832
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392322671875,
+  Tgid_pid: 863481700225414,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 46832
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392322737658,
+  Tgid_pid: 863481700225414,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.baidu.com.,
+  Type: 1,
+ Transaction_id: 46832
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392323694045,
+  Tgid_pid: 863481700225408,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: www.baidu.com.,
+  Type: 1,
+ Transaction_id: 49031
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392323721987,
+  Tgid_pid: 863481700225408,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: www.baidu.com.,
+  Type: 1,
+ Transaction_id: 49031
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392323728459,
+  Tgid_pid: 863481700225408,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: www.baidu.com.,
+  Type: 1,
+ Transaction_id: 49031
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392323732987,
+  Tgid_pid: 863481700225408,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: www.baidu.com.,
+  Type: 1,
+ Transaction_id: 49031
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392349331290,
+  Tgid_pid: 863481700225408,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: www.baidu.com.,
+  Type: 1,
+ Transaction_id: 49031
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392349383077,
+  Tgid_pid: 863481700225408,
+  Hook_id: 17 (HOOK_uprobe_bind_dns_message_getopt_entry),
+  recursive_domain: www.baidu.com.,
+  Type: 1,
+ Transaction_id: 49031
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392349397043,
+  Tgid_pid: 863481700225408,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: www.baidu.com.,
+  Type: 1,
+ Transaction_id: 49031
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392349405589,
+  Tgid_pid: 863481700225408,
+  Hook_id: 12 (HOOK_uprobe_bind_dns_message_checksig_entry),
+  recursive_domain: www.baidu.com.,
+  Type: 1,
+ Transaction_id: 49031
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392349419365,
+  Tgid_pid: 863481700225408,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: www.baidu.com.,
+  Type: 1,
+ Transaction_id: 49031
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392349426769,
+  Tgid_pid: 863481700225408,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: www.baidu.com.,
+  Type: 1,
+ Transaction_id: 49031
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392349433181,
+  Tgid_pid: 863481700225408,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: www.baidu.com.,
+  Type: 1,
+ Transaction_id: 49031
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392349463417,
+  Tgid_pid: 863481700225408,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: www.baidu.com.,
+  Type: 1,
+ Transaction_id: 49031
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392349469679,
+  Tgid_pid: 863481700225408,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: www.baidu.com.,
+  Type: 1,
+ Transaction_id: 49031
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392349617365,
+  Tgid_pid: 863481700225408,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: www.baidu.com.,
+  Type: 1,
+ Transaction_id: 49031
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392349809554,
+  Tgid_pid: 863481700225405,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: www.baidu.com.,
+  Type: 1,
+ Transaction_id: 14183
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392349868143,
+  Tgid_pid: 863481700225405,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: www.baidu.com.,
+  Type: 1,
+ Transaction_id: 14183
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392351869001,
+  Tgid_pid: 863481700225408,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: _.shifen.com.,
+  Type: 1,
+ Transaction_id: 31957
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392351898877,
+  Tgid_pid: 863481700225408,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: _.shifen.com.,
+  Type: 1,
+ Transaction_id: 31957
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392351908234,
+  Tgid_pid: 863481700225408,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: _.shifen.com.,
+  Type: 1,
+ Transaction_id: 31957
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392351914486,
+  Tgid_pid: 863481700225408,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: _.shifen.com.,
+  Type: 1,
+ Transaction_id: 31957
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392359851012,
+  Tgid_pid: 863481700225408,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: _.shifen.com.,
+  Type: 1,
+ Transaction_id: 31957
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392359895475,
+  Tgid_pid: 863481700225408,
+  Hook_id: 17 (HOOK_uprobe_bind_dns_message_getopt_entry),
+  recursive_domain: _.shifen.com.,
+  Type: 1,
+ Transaction_id: 31957
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392359906115,
+  Tgid_pid: 863481700225408,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.shifen.com.,
+  Type: 1,
+ Transaction_id: 31957
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392359913409,
+  Tgid_pid: 863481700225408,
+  Hook_id: 12 (HOOK_uprobe_bind_dns_message_checksig_entry),
+  recursive_domain: _.shifen.com.,
+  Type: 1,
+ Transaction_id: 31957
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392359920031,
+  Tgid_pid: 863481700225408,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.shifen.com.,
+  Type: 1,
+ Transaction_id: 31957
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392359926343,
+  Tgid_pid: 863481700225408,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.shifen.com.,
+  Type: 1,
+ Transaction_id: 31957
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392359933977,
+  Tgid_pid: 863481700225408,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.shifen.com.,
+  Type: 1,
+ Transaction_id: 31957
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392359939688,
+  Tgid_pid: 863481700225408,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.shifen.com.,
+  Type: 1,
+ Transaction_id: 31957
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392359950177,
+  Tgid_pid: 863481700225408,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.shifen.com.,
+  Type: 1,
+ Transaction_id: 31957
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392360081132,
+  Tgid_pid: 863481700225408,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.shifen.com.,
+  Type: 1,
+ Transaction_id: 31957
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392362208376,
+  Tgid_pid: 863481700225405,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: shifen.com.,
+  Type: 43,
+ Transaction_id: 48253
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392362251647,
+  Tgid_pid: 863481700225405,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: shifen.com.,
+  Type: 43,
+ Transaction_id: 48253
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392362261866,
+  Tgid_pid: 863481700225405,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: shifen.com.,
+  Type: 43,
+ Transaction_id: 48253
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392362269160,
+  Tgid_pid: 863481700225405,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: shifen.com.,
+  Type: 43,
+ Transaction_id: 48253
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392583445763,
+  Tgid_pid: 863481700225405,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: shifen.com.,
+  Type: 43,
+ Transaction_id: 48253
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392583498822,
+  Tgid_pid: 863481700225405,
+  Hook_id: 17 (HOOK_uprobe_bind_dns_message_getopt_entry),
+  recursive_domain: shifen.com.,
+  Type: 43,
+ Transaction_id: 48253
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392583511436,
+  Tgid_pid: 863481700225405,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: shifen.com.,
+  Type: 43,
+ Transaction_id: 48253
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392583519000,
+  Tgid_pid: 863481700225405,
+  Hook_id: 12 (HOOK_uprobe_bind_dns_message_checksig_entry),
+  recursive_domain: shifen.com.,
+  Type: 43,
+ Transaction_id: 48253
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392798564479,
+  Tgid_pid: 863481700225405,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: shifen.com.,
+  Type: 43,
+ Transaction_id: 28329
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392798616155,
+  Tgid_pid: 863481700225405,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: shifen.com.,
+  Type: 43,
+ Transaction_id: 28329
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392798627857,
+  Tgid_pid: 863481700225405,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: shifen.com.,
+  Type: 43,
+ Transaction_id: 28329
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37392798635441,
+  Tgid_pid: 863481700225405,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: shifen.com.,
+  Type: 43,
+ Transaction_id: 28329
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393012721727,
+  Tgid_pid: 863481700225405,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: shifen.com.,
+  Type: 43,
+ Transaction_id: 28329
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393012776399,
+  Tgid_pid: 863481700225405,
+  Hook_id: 17 (HOOK_uprobe_bind_dns_message_getopt_entry),
+  recursive_domain: shifen.com.,
+  Type: 43,
+ Transaction_id: 28329
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393012790074,
+  Tgid_pid: 863481700225405,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: shifen.com.,
+  Type: 43,
+ Transaction_id: 28329
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393012798029,
+  Tgid_pid: 863481700225405,
+  Hook_id: 12 (HOOK_uprobe_bind_dns_message_checksig_entry),
+  recursive_domain: shifen.com.,
+  Type: 43,
+ Transaction_id: 28329
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393012804561,
+  Tgid_pid: 863481700225405,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: shifen.com.,
+  Type: 43,
+ Transaction_id: 28329
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393012811885,
+  Tgid_pid: 863481700225405,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: shifen.com.,
+  Type: 43,
+ Transaction_id: 28329
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393012821182,
+  Tgid_pid: 863481700225405,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: shifen.com.,
+  Type: 43,
+ Transaction_id: 28329
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393012827494,
+  Tgid_pid: 863481700225405,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: shifen.com.,
+  Type: 43,
+ Transaction_id: 28329
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393012840478,
+  Tgid_pid: 863481700225405,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: shifen.com.,
+  Type: 43,
+ Transaction_id: 28329
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393012870013,
+  Tgid_pid: 863481700225405,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: shifen.com.,
+  Type: 43,
+ Transaction_id: 28329
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393013431095,
+  Tgid_pid: 863481700225405,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: shifen.com.,
+  Type: 43,
+ Transaction_id: 28329
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393013467743,
+  Tgid_pid: 863481700225405,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: shifen.com.,
+  Type: 43,
+ Transaction_id: 28329
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393013483422,
+  Tgid_pid: 863481700225405,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: shifen.com.,
+  Type: 43,
+ Transaction_id: 28329
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393013493902,
+  Tgid_pid: 863481700225405,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: shifen.com.,
+  Type: 43,
+ Transaction_id: 28329
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393013507196,
+  Tgid_pid: 863481700225405,
+  Hook_id: 9 (HOOK_uprobe_bind_dns_ncache_addoptout_entry),
+  recursive_domain: shifen.com.,
+  Type: 43,
+ Transaction_id: 28329
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393013611871,
+  Tgid_pid: 863481700225405,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: shifen.com.,
+  Type: 43,
+ Transaction_id: 28329
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393013654370,
+  Tgid_pid: 863481700225405,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: shifen.com.,
+  Type: 43,
+ Transaction_id: 28329
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393013776005,
+  Tgid_pid: 863481700225408,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.shifen.com.,
+  Type: 1,
+ Transaction_id: 31957
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393013894896,
+  Tgid_pid: 863481700225408,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.shifen.com.,
+  Type: 1,
+ Transaction_id: 31957
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393013968433,
+  Tgid_pid: 863481700225408,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.shifen.com.,
+  Type: 1,
+ Transaction_id: 31957
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393015450736,
+  Tgid_pid: 863481700225410,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: _.a.shifen.com.,
+  Type: 1,
+ Transaction_id: 10539
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393015483376,
+  Tgid_pid: 863481700225410,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: _.a.shifen.com.,
+  Type: 1,
+ Transaction_id: 10539
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393015491081,
+  Tgid_pid: 863481700225410,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: _.a.shifen.com.,
+  Type: 1,
+ Transaction_id: 10539
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393015496641,
+  Tgid_pid: 863481700225410,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: _.a.shifen.com.,
+  Type: 1,
+ Transaction_id: 10539
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393098930019,
+  Tgid_pid: 863481700225410,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: _.a.shifen.com.,
+  Type: 1,
+ Transaction_id: 10539
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393098971666,
+  Tgid_pid: 863481700225410,
+  Hook_id: 17 (HOOK_uprobe_bind_dns_message_getopt_entry),
+  recursive_domain: _.a.shifen.com.,
+  Type: 1,
+ Transaction_id: 10539
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393098982446,
+  Tgid_pid: 863481700225410,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.a.shifen.com.,
+  Type: 1,
+ Transaction_id: 10539
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393098988467,
+  Tgid_pid: 863481700225410,
+  Hook_id: 12 (HOOK_uprobe_bind_dns_message_checksig_entry),
+  recursive_domain: _.a.shifen.com.,
+  Type: 1,
+ Transaction_id: 10539
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393098993326,
+  Tgid_pid: 863481700225410,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.a.shifen.com.,
+  Type: 1,
+ Transaction_id: 10539
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393098998406,
+  Tgid_pid: 863481700225410,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.a.shifen.com.,
+  Type: 1,
+ Transaction_id: 10539
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393099007322,
+  Tgid_pid: 863481700225410,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.a.shifen.com.,
+  Type: 1,
+ Transaction_id: 10539
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393099014095,
+  Tgid_pid: 863481700225410,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.a.shifen.com.,
+  Type: 1,
+ Transaction_id: 10539
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393099027069,
+  Tgid_pid: 863481700225410,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.a.shifen.com.,
+  Type: 1,
+ Transaction_id: 10539
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393099094845,
+  Tgid_pid: 863481700225410,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.a.shifen.com.,
+  Type: 1,
+ Transaction_id: 10539
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393099168111,
+  Tgid_pid: 863481700225410,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.a.shifen.com.,
+  Type: 1,
+ Transaction_id: 10539
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393099262306,
+  Tgid_pid: 863481700225410,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.a.shifen.com.,
+  Type: 1,
+ Transaction_id: 10539
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393099312860,
+  Tgid_pid: 863481700225410,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: _.a.shifen.com.,
+  Type: 1,
+ Transaction_id: 10539
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393100681627,
+  Tgid_pid: 863481700225419,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: www.a.shifen.com.,
+  Type: 1,
+ Transaction_id: 41199
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393100732752,
+  Tgid_pid: 863481700225419,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: www.a.shifen.com.,
+  Type: 1,
+ Transaction_id: 41199
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393100752980,
+  Tgid_pid: 863481700225419,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: www.a.shifen.com.,
+  Type: 1,
+ Transaction_id: 41199
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393100796290,
+  Tgid_pid: 863481700225419,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: www.a.shifen.com.,
+  Type: 1,
+ Transaction_id: 41199
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393108884253,
+  Tgid_pid: 863481700225419,
+  Hook_id: 16 (HOOK_uprobe_bind_logfmtpacket_entry),
+  recursive_domain: www.a.shifen.com.,
+  Type: 1,
+ Transaction_id: 41199
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393108940678,
+  Tgid_pid: 863481700225419,
+  Hook_id: 17 (HOOK_uprobe_bind_dns_message_getopt_entry),
+  recursive_domain: www.a.shifen.com.,
+  Type: 1,
+ Transaction_id: 41199
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393108954834,
+  Tgid_pid: 863481700225419,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: www.a.shifen.com.,
+  Type: 1,
+ Transaction_id: 41199
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393108963831,
+  Tgid_pid: 863481700225419,
+  Hook_id: 12 (HOOK_uprobe_bind_dns_message_checksig_entry),
+  recursive_domain: www.a.shifen.com.,
+  Type: 1,
+ Transaction_id: 41199
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393108972808,
+  Tgid_pid: 863481700225419,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: www.a.shifen.com.,
+  Type: 1,
+ Transaction_id: 41199
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393108980081,
+  Tgid_pid: 863481700225419,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: www.a.shifen.com.,
+  Type: 1,
+ Transaction_id: 41199
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393108988437,
+  Tgid_pid: 863481700225419,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: www.a.shifen.com.,
+  Type: 1,
+ Transaction_id: 41199
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393108997614,
+  Tgid_pid: 863481700225419,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: www.a.shifen.com.,
+  Type: 1,
+ Transaction_id: 41199
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393109004366,
+  Tgid_pid: 863481700225419,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: www.a.shifen.com.,
+  Type: 1,
+ Transaction_id: 41199
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393109050602,
+  Tgid_pid: 863481700225419,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: www.a.shifen.com.,
+  Type: 1,
+ Transaction_id: 41199
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393109057335,
+  Tgid_pid: 863481700225419,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: www.a.shifen.com.,
+  Type: 1,
+ Transaction_id: 41199
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393109201903,
+  Tgid_pid: 863481700225419,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: www.a.shifen.com.,
+  Type: 1,
+ Transaction_id: 41199
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393109362812,
+  Tgid_pid: 863481700225405,
+  Hook_id: 10 (HOOK_uprobe_bind_dns_message_gettemprdataset_entry),
+  recursive_domain: www.baidu.com.,
+  Type: 1,
+ Transaction_id: 14183
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393109397005,
+  Tgid_pid: 863481700225405,
+  Hook_id: 5 (HOOK_uprobe_bind_dns_message_takebuffer_entry),
+  recursive_domain: www.baidu.com.,
+  Type: 1,
+ Transaction_id: 14183
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393109416812,
+  Tgid_pid: 863481700225405,
+  Hook_id: 15 (HOOK_uprobe_bind_dns_message_renderheader_entry),
+  recursive_domain: www.baidu.com.,
+  Type: 1,
+ Transaction_id: 14183
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393109778023,
+  Tgid_pid: 864937694139049,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: www.baidu.com.,
+  Type: 1,
+ Transaction_id: 14183
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393109901192,
+  Tgid_pid: 864937694139049,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: www.baidu.com.,
+  Type: 1,
+ Transaction_id: 14183
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393109968407,
+  Tgid_pid: 864937694139049,
+  Hook_id: 17 (HOOK_uprobe_bind_dns_message_getopt_entry),
+  recursive_domain: www.baidu.com.,
+  Type: 1,
+ Transaction_id: 14183
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393110004704,
+  Tgid_pid: 864937694139049,
+  Hook_id: 11 (HOOK_uprobe_bind_dns_message_sectiontotext_entry),
+  recursive_domain: www.baidu.com.,
+  Type: 1,
+ Transaction_id: 14183
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393110014061,
+  Tgid_pid: 864937694139049,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: www.baidu.com.,
+  Type: 1,
+ Transaction_id: 14183
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393110028648,
+  Tgid_pid: 864937694139049,
+  Hook_id: 11 (HOOK_uprobe_bind_dns_message_sectiontotext_entry),
+  recursive_domain: www.baidu.com.,
+  Type: 1,
+ Transaction_id: 14183
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393110052383,
+  Tgid_pid: 864937694139049,
+  Hook_id: 3 (HOOK_uprobe_bind_dns_message_firstname_entry),
+  recursive_domain: www.baidu.com.,
+  Type: 1,
+ Transaction_id: 14183
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393110070156,
+  Tgid_pid: 864937694139049,
+  Hook_id: 11 (HOOK_uprobe_bind_dns_message_sectiontotext_entry),
+  recursive_domain: www.baidu.com.,
+  Type: 1,
+ Transaction_id: 14183
+}received:DetailFuncEvent{
+  Timestamp_boot_ns: 37393110078210,
+  Tgid_pid: 864937694139049,
+  Hook_id: 11 (HOOK_uprobe_bind_dns_message_sectiontotext_entry),
+  recursive_domain: www.baidu.com.,
+  Type: 1,
+ Transaction_id: 14183
+}
