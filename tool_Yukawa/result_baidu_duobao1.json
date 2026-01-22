@@ -1,0 +1,672 @@
+[
+  {
+    "client": "10.0.0.2:55159",
+    "qname": "www.google.com.",
+    "recursive_domains": [
+      ".",
+      "www.google.com."
+    ],
+    "counts": {
+      "www.google.com.": 2,
+      ".": 1
+    },
+    "start_time": 37377851137000,
+    "end_time": 37378111567000
+  },
+  {
+    "client": "10.0.0.1:48136",
+    "qname": "www.google.com.",
+    "recursive_domains": [
+      ".",
+      "www.google.com."
+    ],
+    "counts": {
+      "www.google.com.": 2,
+      ".": 1
+    },
+    "start_time": 37377697180000,
+    "end_time": 37378111635000
+  },
+  {
+    "client": "10.0.0.1:16340",
+    "qname": "www.google.com.",
+    "recursive_domains": [
+      ".",
+      "CK0POJMG874LJREF7EFN8430QVIT8BSM.com.",
+      "S84BOR4DK28HNHPLC218O483VOOOD5D8.com.",
+      "a.gtld-servers.net.",
+      "com.",
+      "google.com.",
+      "ns1.google.com.",
+      "ns2.google.com.",
+      "ns3.google.com.",
+      "ns4.google.com.",
+      "nstld.verisign-grs.com.",
+      "www.google.com."
+    ],
+    "counts": {
+      "google.com.": 4,
+      "CK0POJMG874LJREF7EFN8430QVIT8BSM.com.": 3,
+      "ns4.google.com.": 2,
+      "ns1.google.com.": 2,
+      ".": 4,
+      "S84BOR4DK28HNHPLC218O483VOOOD5D8.com.": 3,
+      "ns3.google.com.": 2,
+      "ns2.google.com.": 2,
+      "www.google.com.": 2,
+      "nstld.verisign-grs.com.": 1,
+      "com.": 1,
+      "a.gtld-servers.net.": 1
+    },
+    "start_time": 37377648715000,
+    "end_time": 37378111655000
+  },
+  {
+    "client": "10.0.0.3:40316",
+    "qname": "www.google.com.",
+    "recursive_domains": [
+      "www.google.com."
+    ],
+    "counts": {
+      "www.google.com.": 1
+    },
+    "start_time": 37378101931000,
+    "end_time": 37378111658000
+  },
+  {
+    "client": "10.0.0.2:2138",
+    "qname": "www.google.com.",
+    "recursive_domains": [
+      ".",
+      "www.google.com."
+    ],
+    "counts": {
+      "www.google.com.": 2,
+      ".": 1
+    },
+    "start_time": 37377899342000,
+    "end_time": 37378111659000
+  },
+  {
+    "client": "10.0.0.3:4851",
+    "qname": "www.google.com.",
+    "recursive_domains": [
+      "www.google.com."
+    ],
+    "counts": {
+      "www.google.com.": 1
+    },
+    "start_time": 37378051316000,
+    "end_time": 37378111662000
+  },
+  {
+    "client": "10.0.0.4:37990",
+    "qname": "www.google.com.",
+    "recursive_domains": [
+      "www.google.com."
+    ],
+    "counts": {
+      "www.google.com.": 1
+    },
+    "start_time": 37378246839000,
+    "end_time": 37378247142000
+  },
+  {
+    "client": "10.0.0.3:17323",
+    "qname": "www.baidu.com.",
+    "recursive_domains": [
+      "www.a.shifen.com.",
+      "www.baidu.com."
+    ],
+    "counts": {
+      "www.a.shifen.com.": 1,
+      "www.baidu.com.": 1
+    },
+    "start_time": 37377997747000,
+    "end_time": 37378288741000
+  },
+  {
+    "client": "10.0.0.2:62322",
+    "qname": "www.baidu.com.",
+    "recursive_domains": [
+      ".",
+      "a.shifen.com.",
+      "ns1.a.shifen.com.",
+      "ns2.a.shifen.com.",
+      "ns3.a.shifen.com.",
+      "ns4.a.shifen.com.",
+      "ns5.a.shifen.com.",
+      "www.a.shifen.com.",
+      "www.baidu.com."
+    ],
+    "counts": {
+      "www.a.shifen.com.": 3,
+      ".": 2,
+      "www.baidu.com.": 2,
+      "ns5.a.shifen.com.": 1,
+      "ns3.a.shifen.com.": 1,
+      "ns4.a.shifen.com.": 1,
+      "a.shifen.com.": 1,
+      "ns2.a.shifen.com.": 1,
+      "ns1.a.shifen.com.": 1
+    },
+    "start_time": 37377803107000,
+    "end_time": 37378288780000
+  },
+  {
+    "client": "10.0.0.4:32118",
+    "qname": "www.baidu.com.",
+    "recursive_domains": [
+      "www.a.shifen.com.",
+      "www.baidu.com."
+    ],
+    "counts": {
+      "www.a.shifen.com.": 1,
+      "www.baidu.com.": 1
+    },
+    "start_time": 37378197873000,
+    "end_time": 37378288894000
+  },
+  {
+    "client": "10.0.0.3:36776",
+    "qname": "www.baidu.com.",
+    "recursive_domains": [
+      "www.a.shifen.com.",
+      "www.baidu.com."
+    ],
+    "counts": {
+      "www.a.shifen.com.": 1,
+      "www.baidu.com.": 1
+    },
+    "start_time": 37377946126000,
+    "end_time": 37378288937000
+  },
+  {
+    "client": "10.0.0.2:43375",
+    "qname": "www.baidu.com.",
+    "recursive_domains": [
+      ".",
+      "CK0POJMG874LJREF7EFN8430QVIT8BSM.com.",
+      "HPVV1UNKTCF9TD77I2AUR73709T975GH.com.",
+      "a.gtld-servers.net.",
+      "a.shifen.com.",
+      "baidu.com.",
+      "com.",
+      "ns1.a.shifen.com.",
+      "ns1.baidu.com.",
+      "ns2.a.shifen.com.",
+      "ns2.baidu.com.",
+      "ns3.a.shifen.com.",
+      "ns3.baidu.com.",
+      "ns4.a.shifen.com.",
+      "ns4.baidu.com.",
+      "ns5.a.shifen.com.",
+      "ns7.baidu.com.",
+      "nstld.verisign-grs.com.",
+      "www.a.shifen.com.",
+      "www.baidu.com."
+    ],
+    "counts": {
+      "ns3.baidu.com.": 1,
+      "ns2.baidu.com.": 1,
+      "ns7.baidu.com.": 1,
+      "CK0POJMG874LJREF7EFN8430QVIT8BSM.com.": 2,
+      "HPVV1UNKTCF9TD77I2AUR73709T975GH.com.": 2,
+      ".": 4,
+      "baidu.com.": 2,
+      "ns1.baidu.com.": 1,
+      "ns4.baidu.com.": 1,
+      "www.a.shifen.com.": 3,
+      "www.baidu.com.": 2,
+      "nstld.verisign-grs.com.": 1,
+      "com.": 1,
+      "a.gtld-servers.net.": 1,
+      "ns5.a.shifen.com.": 1,
+      "ns3.a.shifen.com.": 1,
+      "ns4.a.shifen.com.": 1,
+      "a.shifen.com.": 1,
+      "ns2.a.shifen.com.": 1,
+      "ns1.a.shifen.com.": 1
+    },
+    "start_time": 37377748078000,
+    "end_time": 37378289132000
+  },
+  {
+    "client": "10.0.0.4:52635",
+    "qname": "www.baidu.com.",
+    "recursive_domains": [
+      "www.a.shifen.com.",
+      "www.baidu.com."
+    ],
+    "counts": {
+      "www.a.shifen.com.": 1,
+      "www.baidu.com.": 1
+    },
+    "start_time": 37378152496000,
+    "end_time": 37378289143000
+  },
+  {
+    "client": "10.0.0.1:65376",
+    "qname": "www.baidu.com.",
+    "recursive_domains": [
+      ".",
+      "CK0POJMG874LJREF7EFN8430QVIT8BSM.com.",
+      "HPVV1UNKTCF9TD77I2AUR73709T975GH.com.",
+      "a.gtld-servers.net.",
+      "a.shifen.com.",
+      "baidu.com.",
+      "com.",
+      "ns1.a.shifen.com.",
+      "ns1.baidu.com.",
+      "ns2.a.shifen.com.",
+      "ns2.baidu.com.",
+      "ns3.a.shifen.com.",
+      "ns3.baidu.com.",
+      "ns4.a.shifen.com.",
+      "ns4.baidu.com.",
+      "ns5.a.shifen.com.",
+      "ns7.baidu.com.",
+      "nstld.verisign-grs.com.",
+      "www.a.shifen.com.",
+      "www.baidu.com."
+    ],
+    "counts": {
+      "ns3.baidu.com.": 1,
+      "ns2.baidu.com.": 1,
+      "ns7.baidu.com.": 1,
+      "CK0POJMG874LJREF7EFN8430QVIT8BSM.com.": 2,
+      "HPVV1UNKTCF9TD77I2AUR73709T975GH.com.": 2,
+      ".": 4,
+      "baidu.com.": 2,
+      "ns1.baidu.com.": 1,
+      "ns4.baidu.com.": 1,
+      "www.a.shifen.com.": 3,
+      "www.baidu.com.": 2,
+      "nstld.verisign-grs.com.": 1,
+      "com.": 1,
+      "a.gtld-servers.net.": 1,
+      "ns5.a.shifen.com.": 1,
+      "ns3.a.shifen.com.": 1,
+      "ns4.a.shifen.com.": 1,
+      "a.shifen.com.": 1,
+      "ns2.a.shifen.com.": 1,
+      "ns1.a.shifen.com.": 1
+    },
+    "start_time": 37377597230000,
+    "end_time": 37378289237000
+  },
+  {
+    "client": "10.0.0.1:51185",
+    "qname": "www.baidu.com.",
+    "recursive_domains": [
+      ".",
+      "CK0POJMG874LJREF7EFN8430QVIT8BSM.com.",
+      "HPVV1UNKTCF9TD77I2AUR73709T975GH.com.",
+      "a.gtld-servers.net.",
+      "a.shifen.com.",
+      "baidu.com.",
+      "com.",
+      "ns1.a.shifen.com.",
+      "ns1.baidu.com.",
+      "ns2.a.shifen.com.",
+      "ns2.baidu.com.",
+      "ns3.a.shifen.com.",
+      "ns3.baidu.com.",
+      "ns4.a.shifen.com.",
+      "ns4.baidu.com.",
+      "ns5.a.shifen.com.",
+      "ns7.baidu.com.",
+      "nstld.verisign-grs.com.",
+      "www.a.shifen.com.",
+      "www.baidu.com."
+    ],
+    "counts": {
+      "ns3.baidu.com.": 1,
+      "ns2.baidu.com.": 1,
+      "ns7.baidu.com.": 1,
+      "CK0POJMG874LJREF7EFN8430QVIT8BSM.com.": 2,
+      "HPVV1UNKTCF9TD77I2AUR73709T975GH.com.": 2,
+      ".": 4,
+      "baidu.com.": 2,
+      "ns1.baidu.com.": 1,
+      "ns4.baidu.com.": 1,
+      "www.a.shifen.com.": 3,
+      "www.baidu.com.": 2,
+      "nstld.verisign-grs.com.": 1,
+      "com.": 1,
+      "a.gtld-servers.net.": 1,
+      "ns5.a.shifen.com.": 1,
+      "ns3.a.shifen.com.": 1,
+      "ns4.a.shifen.com.": 1,
+      "a.shifen.com.": 1,
+      "ns2.a.shifen.com.": 1,
+      "ns1.a.shifen.com.": 1
+    },
+    "start_time": 37377584149000,
+    "end_time": 37378289394000
+  },
+  {
+    "client": "10.0.0.4:5145",
+    "qname": "www.google.com.",
+    "recursive_domains": [
+      "www.google.com."
+    ],
+    "counts": {
+      "www.google.com.": 1
+    },
+    "start_time": 37378304142000,
+    "end_time": 37378304486000
+  },
+  {
+    "client": "10.0.0.5:25007",
+    "qname": "www.baidu.com.",
+    "recursive_domains": [
+      "www.a.shifen.com.",
+      "www.baidu.com."
+    ],
+    "counts": {
+      "www.a.shifen.com.": 1,
+      "www.baidu.com.": 1
+    },
+    "start_time": 37378347168000,
+    "end_time": 37378347643000
+  },
+  {
+    "client": "10.0.0.5:10553",
+    "qname": "www.baidu.com.",
+    "recursive_domains": [
+      "www.a.shifen.com.",
+      "www.baidu.com."
+    ],
+    "counts": {
+      "www.a.shifen.com.": 1,
+      "www.baidu.com.": 1
+    },
+    "start_time": 37378398096000,
+    "end_time": 37378398579000
+  },
+  {
+    "client": "10.0.0.5:32815",
+    "qname": "www.google.com.",
+    "recursive_domains": [
+      "www.google.com."
+    ],
+    "counts": {
+      "www.google.com.": 1
+    },
+    "start_time": 37378455109000,
+    "end_time": 37378455472000
+  },
+  {
+    "client": "10.0.0.5:35980",
+    "qname": "www.google.com.",
+    "recursive_domains": [
+      "www.google.com."
+    ],
+    "counts": {
+      "www.google.com.": 1
+    },
+    "start_time": 37378497177000,
+    "end_time": 37378497531000
+  },
+  {
+    "client": "10.0.0.6:9471",
+    "qname": "www.baidu.com.",
+    "recursive_domains": [
+      "www.a.shifen.com.",
+      "www.baidu.com."
+    ],
+    "counts": {
+      "www.a.shifen.com.": 1,
+      "www.baidu.com.": 1
+    },
+    "start_time": 37378551144000,
+    "end_time": 37378551601000
+  },
+  {
+    "client": "10.0.0.6:50692",
+    "qname": "www.baidu.com.",
+    "recursive_domains": [
+      "www.a.shifen.com.",
+      "www.baidu.com."
+    ],
+    "counts": {
+      "www.a.shifen.com.": 1,
+      "www.baidu.com.": 1
+    },
+    "start_time": 37378602306000,
+    "end_time": 37378602723000
+  },
+  {
+    "client": "10.0.0.6:56226",
+    "qname": "www.google.com.",
+    "recursive_domains": [
+      "www.google.com."
+    ],
+    "counts": {
+      "www.google.com.": 1
+    },
+    "start_time": 37378646154000,
+    "end_time": 37378646568000
+  },
+  {
+    "client": "10.0.0.6:57143",
+    "qname": "www.google.com.",
+    "recursive_domains": [
+      "www.google.com."
+    ],
+    "counts": {
+      "www.google.com.": 1
+    },
+    "start_time": 37378706507000,
+    "end_time": 37378706839000
+  },
+  {
+    "client": "10.0.0.7:64261",
+    "qname": "www.baidu.com.",
+    "recursive_domains": [
+      "www.a.shifen.com.",
+      "www.baidu.com."
+    ],
+    "counts": {
+      "www.a.shifen.com.": 1,
+      "www.baidu.com.": 1
+    },
+    "start_time": 37378751167000,
+    "end_time": 37378751643000
+  },
+  {
+    "client": "10.0.0.7:6945",
+    "qname": "www.baidu.com.",
+    "recursive_domains": [
+      "www.a.shifen.com.",
+      "www.baidu.com."
+    ],
+    "counts": {
+      "www.a.shifen.com.": 1,
+      "www.baidu.com.": 1
+    },
+    "start_time": 37378805226000,
+    "end_time": 37378805695000
+  },
+  {
+    "client": "10.0.0.7:2778",
+    "qname": "www.google.com.",
+    "recursive_domains": [
+      "www.google.com."
+    ],
+    "counts": {
+      "www.google.com.": 1
+    },
+    "start_time": 37378858331000,
+    "end_time": 37378858658000
+  },
+  {
+    "client": "10.0.0.7:21999",
+    "qname": "www.google.com.",
+    "recursive_domains": [
+      "www.google.com."
+    ],
+    "counts": {
+      "www.google.com.": 1
+    },
+    "start_time": 37378897178000,
+    "end_time": 37378897560000
+  },
+  {
+    "client": "10.0.0.8:22327",
+    "qname": "www.baidu.com.",
+    "recursive_domains": [
+      "www.a.shifen.com.",
+      "www.baidu.com."
+    ],
+    "counts": {
+      "www.a.shifen.com.": 1,
+      "www.baidu.com.": 1
+    },
+    "start_time": 37378947724000,
+    "end_time": 37378948134000
+  },
+  {
+    "client": "10.0.0.8:24387",
+    "qname": "www.baidu.com.",
+    "recursive_domains": [
+      "www.a.shifen.com.",
+      "www.baidu.com."
+    ],
+    "counts": {
+      "www.a.shifen.com.": 1,
+      "www.baidu.com.": 1
+    },
+    "start_time": 37378997162000,
+    "end_time": 37378997691000
+  },
+  {
+    "client": "10.0.0.8:12688",
+    "qname": "www.google.com.",
+    "recursive_domains": [
+      "www.google.com."
+    ],
+    "counts": {
+      "www.google.com.": 1
+    },
+    "start_time": 37379047795000,
+    "end_time": 37379048090000
+  },
+  {
+    "client": "10.0.0.8:36918",
+    "qname": "www.google.com.",
+    "recursive_domains": [
+      "www.google.com."
+    ],
+    "counts": {
+      "www.google.com.": 1
+    },
+    "start_time": 37379098152000,
+    "end_time": 37379098527000
+  },
+  {
+    "client": "10.0.0.9:14081",
+    "qname": "www.baidu.com.",
+    "recursive_domains": [
+      "www.a.shifen.com.",
+      "www.baidu.com."
+    ],
+    "counts": {
+      "www.a.shifen.com.": 1,
+      "www.baidu.com.": 1
+    },
+    "start_time": 37379153715000,
+    "end_time": 37379153981000
+  },
+  {
+    "client": "10.0.0.9:52200",
+    "qname": "www.baidu.com.",
+    "recursive_domains": [
+      "www.a.shifen.com.",
+      "www.baidu.com."
+    ],
+    "counts": {
+      "www.a.shifen.com.": 1,
+      "www.baidu.com.": 1
+    },
+    "start_time": 37379197147000,
+    "end_time": 37379197596000
+  },
+  {
+    "client": "10.0.0.9:21420",
+    "qname": "www.google.com.",
+    "recursive_domains": [
+      "www.google.com."
+    ],
+    "counts": {
+      "www.google.com.": 1
+    },
+    "start_time": 37379247149000,
+    "end_time": 37379247526000
+  },
+  {
+    "client": "10.0.0.9:12205",
+    "qname": "www.google.com.",
+    "recursive_domains": [
+      "www.google.com."
+    ],
+    "counts": {
+      "www.google.com.": 1
+    },
+    "start_time": 37379298406000,
+    "end_time": 37379298701000
+  },
+  {
+    "client": "10.0.0.10:4298",
+    "qname": "www.baidu.com.",
+    "recursive_domains": [
+      "www.a.shifen.com.",
+      "www.baidu.com."
+    ],
+    "counts": {
+      "www.a.shifen.com.": 1,
+      "www.baidu.com.": 1
+    },
+    "start_time": 37379348104000,
+    "end_time": 37379348567000
+  },
+  {
+    "client": "10.0.0.10:65453",
+    "qname": "www.baidu.com.",
+    "recursive_domains": [
+      "www.a.shifen.com.",
+      "www.baidu.com."
+    ],
+    "counts": {
+      "www.a.shifen.com.": 1,
+      "www.baidu.com.": 1
+    },
+    "start_time": 37379397250000,
+    "end_time": 37379397720000
+  },
+  {
+    "client": "10.0.0.10:62228",
+    "qname": "www.google.com.",
+    "recursive_domains": [
+      "www.google.com."
+    ],
+    "counts": {
+      "www.google.com.": 1
+    },
+    "start_time": 37379447124000,
+    "end_time": 37379447463000
+  },
+  {
+    "client": "10.0.0.10:62108",
+    "qname": "www.google.com.",
+    "recursive_domains": [
+      "www.google.com."
+    ],
+    "counts": {
+      "www.google.com.": 1
+    },
+    "start_time": 37379501084000,
+    "end_time": 37379501481000
+  }
+]

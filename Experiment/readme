@@ -1,0 +1,7 @@
+tail_detector: 检测模型库
+
+Experiment.ipynb: 实验代码
+
+model_train.py:         训练并保存DoS攻击检测模型
+
+model_test.py:          加载并调用检测模型进行测试
