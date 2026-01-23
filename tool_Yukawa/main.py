@@ -1,10 +1,12 @@
+import argparse
 import json
 import threading
 import time
 import redis
 from collections import defaultdict
-from tail_detector import load_tail_detector
 import numpy as np
+import pcap_pre_live
+from tail_detector import load_tail_detector
 
 # 超参数：特征向量长度
 X = 157  # 可根据实际需求调整
@@ -184,6 +186,24 @@ class DNSPreprocessor:
         except KeyboardInterrupt:
             print("\n系统已停止")
 
-if __name__ == "__main__":
+def main():
+    parser = argparse.ArgumentParser(description="Start DNS preprocessor with live pcap capture")
+    parser.add_argument("-i", "--iface", required=True, help="Interface name for live capture")
+    args = parser.parse_args()
+
+    if not pcap_pre_live.setup_live_capture(args.iface):
+        return
+
+    pcap_thread = threading.Thread(
+        target=pcap_pre_live.parse_live,
+        args=(args.iface,),
+        daemon=True,
+    )
+    pcap_thread.start()
+
     processor = DNSPreprocessor()
     processor.start()
+
+
+if __name__ == "__main__":
+    main()

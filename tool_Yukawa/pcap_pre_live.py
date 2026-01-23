@@ -211,7 +211,6 @@ def increment_counts(roots, names, flows):
 def write_snapshot(finished):
     if _REDIS_CLIENT is None:
         return
-    print(f"Writing snapshot with {len(finished)} finished flows to Redis...")
     serial = []
     for f in finished:
         serial.append({
@@ -250,10 +249,6 @@ def parse_live(iface):
             return
         dns = p[DNS]
         ts = time.clock_gettime_ns(time.CLOCK_BOOTTIME)
-        # try:
-            
-        # except AttributeError:
-        #     ts = time.monotonic_ns()
         finalize_expired(flows, finished, ts)
 
         srcip, dstip = get_ip_tuple(p)
@@ -346,26 +341,37 @@ def parse_live(iface):
     return finished
 
 
+def setup_live_capture(iface):
+    global LOCAL_IP
+    global _REDIS_CLIENT
+
+    LOCAL_IP = get_if_addr(iface)
+    if not LOCAL_IP:
+        print(f"Failed to get IP from interface: {iface}")
+        return False
+
+    print(f"Using interface: {iface}, local IP: {LOCAL_IP}")
+    _REDIS_CLIENT = connect_redis()
+    if _REDIS_CLIENT is None:
+        return False
+
+    return True
+
+
+def start_live_capture(iface):
+    if not setup_live_capture(iface):
+        return False
+    print("Start sniffing... (Ctrl+C to stop)")
+    parse_live(iface)
+    return True
+
+
 def main():
     parser = argparse.ArgumentParser(description="Live DNS analysis with Scapy")
     parser.add_argument("-i", "--iface", required=True, help="Interface name")
     args = parser.parse_args()
 
-    global LOCAL_IP
-    global _REDIS_CLIENT
-
-    LOCAL_IP = get_if_addr(args.iface)
-    if not LOCAL_IP:
-        print(f"Failed to get IP from interface: {args.iface}")
-        return
-
-    print(f"Using interface: {args.iface}, local IP: {LOCAL_IP}")
-    _REDIS_CLIENT = connect_redis()
-    if _REDIS_CLIENT is None:
-        return
-
-    print("Start sniffing... (Ctrl+C to stop)")
-    parse_live(args.iface)
+    start_live_capture(args.iface)
 
 
 if __name__ == "__main__":
