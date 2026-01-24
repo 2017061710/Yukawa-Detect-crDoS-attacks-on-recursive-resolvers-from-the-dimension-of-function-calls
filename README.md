@@ -15,3 +15,10 @@ python main.py -i eth0
 cd tool_Yukawa/dns-ebpf
 ./build/dns-ebpf -mode detail -v -c config/bind/9_16_2/detail.yaml -e -event-targets redis
 ```
+
+## 生成数据集
+
+```bash
+cd tool_Yukawa
+python main.py -i eth0 --export-dataset --default-score 0
+```

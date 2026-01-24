@@ -1,5 +1,7 @@
 import argparse
+import csv
 import json
+import os
 import threading
 import time
 import redis
@@ -14,7 +16,7 @@ feature_len = 10  # 特征长度
 
 
 class DNSPreprocessor:
-    def __init__(self):
+    def __init__(self, export_dataset=False, default_score=0):
         # 共享数据结构 (线程安全)
         self.lock = threading.Lock()
         
@@ -38,9 +40,23 @@ class DNSPreprocessor:
         self.queue1 = 'dns_analysis_results'
         self.queue2 = 'dns_events'
 
-        # 加载TailDetector模型（替换原来的AnomalyDetectionPipeline）
-        self.anomaly_detector = load_tail_detector(f"models/detector.pkl")
-        print(f"Model loaded successfully! Expected feature count: {len(self.anomaly_detector.feature_cols_)}")
+        self.export_dataset = export_dataset
+        self.default_score = default_score
+        self.dataset_file = None
+        self.dataset_writer = None
+        if self.export_dataset:
+            timestamp = time.strftime("%Y%m%d_%H%M%S")
+            filename = f"dataset_{timestamp}.csv"
+            output_path = os.path.join(os.path.dirname(__file__), filename)
+            self.dataset_file = open(output_path, "w", newline="", encoding="utf-8")
+            self.dataset_writer = csv.writer(self.dataset_file)
+            header = ["Domain", "score", "total_count"] + [f"x{i}" for i in range(X)]
+            self.dataset_writer.writerow(header)
+            print(f"Dataset export enabled: {output_path}")
+        else:
+            # 加载TailDetector模型（替换原来的AnomalyDetectionPipeline）
+            self.anomaly_detector = load_tail_detector("models/detector.pkl")
+            print(f"Model loaded successfully! Expected feature count: {len(self.anomaly_detector.feature_cols_)}")
 
     def thread1_processor(self):  # 通过分析dns响应获取的递归域名信息
         """线程1：处理dns_analysis_results队列"""
@@ -126,19 +142,25 @@ class DNSPreprocessor:
                             normalized_array = feature_array / total
                         else:
                             normalized_array = feature_array  # 处理全零向量的情况
-                        try:
-                            # 调用模型预测（使用新的predict_single方法）
-                            print(f"\nProcessing expired key: {normalized_array}")
-                            prediction, score = self.anomaly_detector.predict_single(normalized_array)
+                        if self.export_dataset:
+                            domain = qname
+                            score = self.default_score
+                            row = [domain, score, float(total)] + normalized_array.tolist()
+                            self.dataset_writer.writerow(row)
+                        else:
+                            try:
+                                # 调用模型预测（使用新的predict_single方法）
+                                print(f"\nProcessing expired key: {normalized_array}")
+                                prediction, score = self.anomaly_detector.predict_single(normalized_array)
 
-                            # 输出结果（完全匹配原始脚本格式）
-                            print(f"\n>>> Prediction Result for key: {key}")
-                            print(f"- Anomaly Score: {score:.4f}")
-                            print(f"- Threshold: {self.anomaly_detector.get_threshold():.4f}")
-                            print(f"- Classification: {'Malicious (Anomaly)' if prediction == 1 else 'Benign (Normal)'}")
+                                # 输出结果（完全匹配原始脚本格式）
+                                print(f"\n>>> Prediction Result for key: {key}")
+                                print(f"- Anomaly Score: {score:.4f}")
+                                print(f"- Threshold: {self.anomaly_detector.get_threshold():.4f}")
+                                print(f"- Classification: {'Malicious (Anomaly)' if prediction == 1 else 'Benign (Normal)'}")
 
-                        except Exception as e:
-                            print(f"❌ Model prediction failed for key {key}: {e}")
+                            except Exception as e:
+                                print(f"❌ Model prediction failed for key {key}: {e}")
                         
                         # --- 结束：模型推理 ---
                         
@@ -185,10 +207,16 @@ class DNSPreprocessor:
                 time.sleep(1)
         except KeyboardInterrupt:
             print("\n系统已停止")
+        finally:
+            if self.dataset_file:
+                self.dataset_file.flush()
+                self.dataset_file.close()
 
 def main():
     parser = argparse.ArgumentParser(description="Start DNS preprocessor with live pcap capture")
     parser.add_argument("-i", "--iface", required=True, help="Interface name for live capture")
+    parser.add_argument("--export-dataset", action="store_true", help="Export dataset CSV instead of model inference")
+    parser.add_argument("--default-score", type=float, default=0, help="Default score when exporting dataset")
     args = parser.parse_args()
 
     if not pcap_pre_live.setup_live_capture(args.iface):
@@ -201,7 +229,10 @@ def main():
     )
     pcap_thread.start()
 
-    processor = DNSPreprocessor()
+    processor = DNSPreprocessor(
+        export_dataset=args.export_dataset,
+        default_score=args.default_score,
+    )
     processor.start()
 
 
