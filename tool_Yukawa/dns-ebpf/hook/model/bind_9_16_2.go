@@ -24,7 +24,8 @@ func (e Bind_9_16_2_Event_Kernel) NameString() string {
 		}
 		nameBuilder.WriteByte(byte(c))
 	}
-	return nameBuilder.String()
+	return strings.ToLower(nameBuilder.String())
+	// return nameBuilder.String()
 }
 
 // ToString 将结构体格式化为可读输出，可选地替换 Hook ID 为名称。
