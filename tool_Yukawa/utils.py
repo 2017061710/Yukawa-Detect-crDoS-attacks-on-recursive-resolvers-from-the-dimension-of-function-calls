@@ -59,7 +59,9 @@ def extract_from_answer(rr):
     add(rr.rrname)
     # 根据不同的记录类型，添加特定字段的值作为域名
     if rrtype == 2:      # NS (Name Server)
-        add(getattr(rr, "nsdname", None)) # 添加NS服务器名称
+        # Scapy may store NS target in nsdname or rdata depending on version
+        add(getattr(rr, "nsdname", None))
+        add(getattr(rr, "rdata", None))
     elif rrtype == 5:    # CNAME (Canonical Name)
         add(getattr(rr, "rdata", None)) # 添加CNAME指向的目标名称
     elif rrtype == 6:    # SOA (Start of Authority)
@@ -134,7 +136,9 @@ def extract_from_additional(rr, parse_cookie=True):
 
     # 处理常见的资源记录类型
     if rrtype == 2:      # NS
+        # Scapy may store NS target in nsdname or rdata depending on version
         add(getattr(rr, "nsdname", None))
+        add(getattr(rr, "rdata", None))
     elif rrtype == 5:    # CNAME
         add(getattr(rr, "rdata", None))
     elif rrtype == 6:    # SOA
