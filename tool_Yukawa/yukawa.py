@@ -18,6 +18,8 @@ class Yukawa:
         self.__redis = redis.Redis()
         self.__hook_key = 'dns_events'
         
+        # qname -> ts
+        self.__discard_event = {}
         self.__export_dataset = export_dataset
         self.__default_score = default_score
         self.__feature_dim = feature_dim
@@ -79,10 +81,13 @@ class Yukawa:
                                         self.__query2features[query_key][hook_id] += 1
                             break
                     if not found:
+                        if recursive_domain in self.__discard_event and (timestamp_boot_ns - self.__discard_event[recursive_domain]) < 5_000_000_000:
+                            break
                         time.sleep(1)
                         print(f"第{_}次等待域名: '{recursive_domain}'")
                 if not found:
                     print(f"放弃域名: {recursive_domain}")
+                    self.__discard_event[recursive_domain] = timestamp_boot_ns
                             
             except (json.JSONDecodeError, UnicodeDecodeError) as e:
                 print(f"线程2解析错误: {e}")
@@ -90,7 +95,7 @@ class Yukawa:
     def __process_dns_traffic(self):
         while True:
             report = self.__dns_traffic_analyzer.get_report()
-            print(report)
+            print(f"report:{report}")
             client = report.get('client','')
             qname = report.get('qname','')
             recursive_domains = report.get('recursive_domains',[])
