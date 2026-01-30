@@ -14,11 +14,25 @@ python main.py -i eth0
 
 cd tool_Yukawa/dns-ebpf
 ./build/dns-ebpf -mode detail -v -c config/bind/9_16_2/detail.yaml -e -event-targets redis
+
+
+sudo apt install -y redis-server
+redis-server --daemonize yes
+redis-cli ping
+
+named -c /etc/bind/named.conf          # 后台
+named -g -c /etc/bind/named.conf       # 前台调试
 ```
+
+
 
 ## 生成数据集
 
 ```bash
 cd tool_Yukawa
 python main.py -i eth0 --export-dataset --default-score 0
+```
+
+```
+dig @172.17.0.2 KeySigTrap.jtfgzlm.top
 ```
