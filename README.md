@@ -1,13 +1,13 @@
 # Yukawa-Detect-crDoS-attacks-on-recursive-resolvers-from-the-dimension-of-function-calls
 
-## 依赖安装
+## Install dependencies
 
 ```bash
 conda create -n yukawa --no-default-packages python=3.11
 pip install -r requirements.txt
 ```
 
-## 使用
+## Start
 ```bash
 cd tool_Yukawa
 python main.py -i eth0
@@ -20,13 +20,13 @@ sudo apt install -y redis-server
 redis-server --daemonize yes
 redis-cli ping
 
-named -c /etc/bind/named.conf          # 后台
-named -g -c /etc/bind/named.conf       # 前台调试
+named -c /etc/bind/named.conf          # Run in the background
+named -g -c /etc/bind/named.conf       # Run in the foreground
 ```
 
 
 
-## 生成数据集
+## Generate the dataset
 
 ```bash
 cd tool_Yukawa
@@ -34,5 +34,5 @@ python main.py -i eth0 --export-dataset --default-score 0
 ```
 
 ```
-dig @172.17.0.2 KeySigTrap.jtfgzlm.top
+dig @172.17.0.2 KeySigTrap.example.top
 ```
